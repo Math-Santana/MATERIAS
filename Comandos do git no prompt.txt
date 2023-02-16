@@ -1,0 +1,26 @@
+cd nomeDaPasta
+
+cd NomedaoutraPastaDentro
+
+OBS: Isso até chegar na pasta que quero
+
+git clone linkDoSSHnoSite
+
+cd Pastaclonada
+
+git add .
+
+git commit nomeDoArquivo -m "mensagem"
+
+git push
+
+
+OBS: caso queira deletar arquivo
+git rm file.txt
+
+
+
+
+git pull
+
+cd .. -> volta para a pasta anterior

@@ -1,0 +1,21 @@
+Implementar o replace e o containsAll
+
+
+Receber duas listas e fazer a mesma coisa que o containsAll faz
+
+public class EquivalenteTest{
+
+	//Método para substituir a função replace -> 
+	//exemplo de teste: String result = Equivalenteteste.replace("Java","a","*")
+	public static String replace(String s, char target, char replacement){
+		char sCharArray [] = s.toCharArray();
+		return "";
+	}
+
+	//Método para substituir a função containsAll
+	public static boolean containsAll(ArrayList<String>list1,ArrayList<String>list2){
+		return false;
+
+	}
+
+}

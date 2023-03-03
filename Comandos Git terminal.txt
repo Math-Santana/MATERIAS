@@ -1,0 +1,9 @@
+"code ." -> abre as pastas com os arquivos
+"git branch" -> indica em que branch eu estou
+
+SEQUÊNCIA DE COMANDOS PARA COMITTAR E FAZER O PUSH
+
+"git add ."
+"git commit -m "TEXTO QUE VOCÊ QUISER COLOCAR"
+"git push"
+
